@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=MuhammadMayudin&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=mhmdmydn&show_icons=true)
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMayudin&theme=vue">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmydn&theme=vue">
